@@ -1,0 +1,5 @@
+google-cloud-bigquery>=3.11
+db-dtypes>=1.1
+pandas>=2.0
+numpy>=1.24
+networkx>=3.1

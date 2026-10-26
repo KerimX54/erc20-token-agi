@@ -1,0 +1,38 @@
+{
+  "token": "LINK",
+  "token_adresi": "0x514910771af9ca656af840dff83e8264ecf986ca",
+  "pencere_utc": "2026-10-19 – 2026-10-25",
+  "toplam_transfer_ham": 63719,
+  "agdaki_transfer": 63697,
+  "cikarilan": {
+    "mint_transfer": 0,
+    "burn_transfer": 0,
+    "self_loop_transfer": 22
+  },
+  "toplam_hacim_token": 39248100.64,
+  "dugum_sayisi": 20348,
+  "kenar_sayisi": 28025,
+  "yogunluk": 6.768984306670847e-05,
+  "ortalama_derece_giris_cikis": 1.3772852368783173,
+  "max_giris_derecesi": 2780,
+  "max_cikis_derecesi": 839,
+  "karsiliklilik_reciprocity": 0.0784299732381802,
+  "zayif_bilesen_sayisi": 579,
+  "en_buyuk_zayif_bilesen": 18896,
+  "en_buyuk_zayif_bilesen_orani": 0.9286416355415765,
+  "guclu_bilesen_sayisi": 16604,
+  "en_buyuk_guclu_bilesen": 3698,
+  "tek_dugumlu_guclu_bilesen": 16570,
+  "zayif_bilesen_boyut_dagilimi_ilk10": [
+    18896,
+    11,
+    9,
+    9,
+    8,
+    7,
+    7,
+    7,
+    6,
+    6
+  ]
+}
